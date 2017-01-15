@@ -8,4 +8,5 @@
 
 ![screenshot of nat and julia working on gps](https://raw.githubusercontent.com/natalieyip/phase-0-gps-1/awesome-page-edits/gps%201.1%20screenshot.png "screenshot of nat and julia")
 
-*making a change*
+*making a change* 
+
